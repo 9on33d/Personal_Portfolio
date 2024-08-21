@@ -829,3 +829,10 @@ h3.my-profession
         max-width: 100%;
     }
 }
+@media (max-width:767px){
+    .explore .imgh2 img{
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-top: 25px;
+    }
+}
